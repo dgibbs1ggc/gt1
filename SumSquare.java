@@ -12,7 +12,6 @@ public class SubSquare  {
 		}
 		System.out.println("The SUM of the squares of multiples of 3 is: " + sum);
 
-    //here-v
-    //Jason 
+     
   }
 }
